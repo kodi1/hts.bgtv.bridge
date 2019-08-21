@@ -1,0 +1,674 @@
+{
+  "24_kitchen": {
+    "id": "24kitchen",
+    "logo": "24kitchen.png",
+    "name": "24kitchen",
+    "tag": "Научни",
+    "uri": "/hls/24kitchen/index.m3u8"
+  },
+  "alfa_tv": {
+    "id": "Alfa",
+    "logo": "alfa.png",
+    "name": "Alfa",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/alfatv/index.m3u8"
+  },
+  "amc": {
+    "id": "amc",
+    "logo": "amc.png",
+    "name": "AMC",
+    "tag": "Филмови",
+    "uri": "/hls/amc/index.m3u8"
+  },
+  "animal_planet": {
+    "id": "AnimalPlanet",
+    "logo": "animalplanet.png",
+    "name": "Animal Planet",
+    "tag": "Научни",
+    "uri": "/hls/animalplanet/index.m3u8"
+  },
+  "axn": {
+    "id": "AXN",
+    "logo": "axn.png",
+    "name": "AXN",
+    "tag": "Филмови",
+    "uri": "/hls/axn/index.m3u8"
+  },
+  "axn_black": {
+    "id": "AXNBlack",
+    "logo": "axnblack.png",
+    "name": "AXN Black",
+    "tag": "Филмови",
+    "uri": "/hls/axnblack/index.m3u8"
+  },
+  "axn_white": {
+    "id": "AXNWhite",
+    "logo": "axnwhite.png",
+    "name": "AXN White",
+    "tag": "Филмови",
+    "uri": "/hls/axnwhite/index.m3u8"
+  },
+  "baby_tv": {
+    "id": "BabyTV",
+    "logo": "babytv.png",
+    "name": "Baby TV",
+    "tag": "Детски",
+    "uri": "/hls/babytv/index.m3u8"
+  },
+  "balkanika": {
+    "id": "Balkanika",
+    "logo": "balkanika.png",
+    "name": "Balkanika",
+    "tag": "Музикални",
+    "uri": "/hls/balkanika/index.m3u8"
+  },
+  "bg_music_channel": {
+    "id": "BGMusicChannel",
+    "logo": "bgmusicchannel.png",
+    "name": "BG Music Channel",
+    "tag": "Музикални",
+    "uri": "/hls/bgmusic/index.m3u8"
+  },
+  "bg_on_air": {
+    "id": "BulgariaOnAir",
+    "logo": "bgonair.png",
+    "name": "Bulgaria ON Air",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bgonair/index.m3u8"
+  },
+  "bit": {
+    "id": "BiT", 
+    "logo": "bit.png", 
+    "name": "BiT", 
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bit/index.m3u8"
+  },
+  "bloomberg": {
+    "id": "Bloomberg",
+    "logo": "bloomberg.png",
+    "name": "Bloomberg TV",
+    "tag": "ДРУГИ",
+    "uri": "/hls/bloomberg/index.m3u8"
+  },
+  "bnt": {
+    "id": "BNT1",
+    "logo": "bnt1.png",
+    "name": "БНТ 1",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bnt/index.m3u8"
+  },
+  "bnt_1": {
+    "id": "BNT1",
+    "logo": "bnt1.png",
+    "name": "БНТ 1",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bnt/index.m3u8"
+  },
+  "bnt_2": {
+    "id": "BNT2",
+    "logo": "bnt2.png",
+    "name": "БНТ 2",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bnt2/index.m3u8"
+  },
+  "bnt_3": {
+    "id": "BNT3",
+    "logo": "bnt3.png",
+    "name": "БНТ 3",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bnthd/index.m3u8"
+  },
+  "bnt_4": {
+    "id": "BNT4",
+    "logo": "bnt4.png",
+    "name": "BNT 4",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bntworld/index.m3u8"
+  },
+  "bnt_hd": {
+    "id": "BNTHD",
+    "logo": "bnthd.png",
+    "name": "БНТ HD",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bnthd/index.m3u8"
+  },
+  "bnt_world": {
+    "id": "BNTWorld",
+    "logo": "bntworld.png",
+    "name": "BNT world",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/bntworld/index.m3u8"
+  },
+  "boomerang": {
+    "id": "Boomerang",
+    "logo": "boomerang.png",
+    "name": "Boomerang",
+    "tag": "Детски",
+    "uri": "/hls/boomerang/index.m3u8"
+  },
+  "box": {
+    "id": "BoxTV",
+    "logo": "boxtv.png",
+    "name": "BOX TV",
+    "tag": "Музикални",
+    "uri": "/hls/box/index.m3u8"
+  },
+  "btv": {
+    "id": "bTV",
+    "logo": "btv.png",
+    "name": "bTV",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/btv/index.m3u8"
+  },
+  "btv_action": {
+    "id": "bTVAction",
+    "logo": "btvaction.png",
+    "name": "bTV Action",
+    "tag": "Филмови",
+    "uri": "/hls/btvaction/index.m3u8"
+  },
+  "btv_cinema": {
+    "id": "bTVCinema",
+    "logo": "btvcinema.png",
+    "name": "bTV Cinema",
+    "tag": "Филмови",
+    "uri": "/hls/btvcinema/index.m3u8"
+  },
+  "btv_comedy": {
+    "id": "bTVComedy",
+    "logo": "btvcomedy.png",
+    "name": "bTV Comedy",
+    "tag": "Филмови",
+    "uri": "/hls/btvcomedy/index.m3u8"
+  },
+  "btv_lady": {
+    "id": "bTVLady",
+    "logo": "btvlady.png",
+    "name": "bTV Lady",
+    "tag": "Филмови",
+    "uri": "/hls/btvlady/index.m3u8"
+  },
+  "cartoon_network": {
+    "id": "CartoonNetwork",
+    "logo": "cartoonnetwork.png",
+    "name": "Cartoon Network",
+    "tag": "Детски",
+    "uri": "/hls/cartoon/index.m3u8"
+  },
+  "cbs_reality": {
+    "id": "CBSReality",
+    "logo": "cbsreality.png",
+    "name": "CBS Reality",
+    "tag": "Научни",
+    "uri": "/hls/cbsreality/index.m3u8"
+  },
+  "cinemax": {
+    "id": "Cinemax",
+    "logo": "cinemax.png",
+    "name": "Cinemax",
+    "tag": "Филмови",
+    "uri": "/hls/cinemax/index.m3u8"
+  },
+  "cinemax_2": {
+    "id": "Cinemax2",
+    "logo": "cinemax2.png",
+    "name": "Cinemax 2",
+    "tag": "Филмови",
+    "uri": "/hls/cinemax2/index.m3u8"
+  },
+  "city_tv": {
+    "id": "City",
+    "logo": "citytv.png",
+    "name": "City TV",
+    "tag": "Музикални",
+    "uri": "/hls/citytv/index.m3u8"
+  },
+  "cnbc_europe": {
+    "id": "",
+    "logo": "",
+    "name": "",
+    "tag": "",
+    "uri": "/hls/cnbceurope/index.m3u8"
+  },
+  "comedy_central": {
+    "id": "ComedyCentral",
+    "logo": "comedycentralextra.png",
+    "name": "Comedy Central Extra South",
+    "tag": "ДРУГИ",
+    "uri": "/hls/comedyc/index.m3u8"
+  },
+  "diema": {
+    "id": "Diema",
+    "logo": "diema.png",
+    "name": "Диема",
+    "tag": "Филмови",
+    "uri": "/hls/diema/index.m3u8"
+  },
+  "diema_family": {
+    "id": "DiemaFamily",
+    "logo": "diemafamily.png",
+    "name": "Диема Family",
+    "tag": "Филмови",
+    "uri": "/hls/diemaf/index.m3u8"
+  },
+  "diema_sport": {
+    "id": "DiemaSport",
+    "logo": "diemasport.png",
+    "name": "Диема Sport",
+    "tag": "Спортни",
+    "uri": "/hls/diemasport/index.m3u8"
+  },
+  "diema_sport_2": {
+    "id": "DiemaSport2",
+    "logo": "diemasport2.png",
+    "name": "Диема Sport 2",
+    "tag": "Спортни",
+    "uri": "/hls/diemasport2/index.m3u8"
+  },
+  "discovery_channel": {
+    "id": "Discovery",
+    "logo": "discovery.png",
+    "name": "Discovery channel",
+    "tag": "Научни",
+    "uri": "/hls/discovery/index.m3u8"
+  },
+  "discovery_science": {
+    "id": "DiscoveryScience", 
+    "logo": "discoveryscience.png", 
+    "name": "Science",
+    "tag": "Научни",
+    "uri": "/hls/discoveryscience/index.m3u8"
+  },
+  "disney_channel": {
+    "id": "Disney",
+    "logo": "disney.png",
+    "name": "Disney channel",
+    "tag": "Детски",
+    "uri": "/hls/disney/index.m3u8"
+  },
+  "disney_junior": {
+    "id": "DisneyJunior",
+    "logo": "disneyjunior.png",
+    "name": "Disney Junior",
+    "tag": "Детски",
+    "uri": "/hls/disneyjunior/index.m3u8"
+  },
+  "dstv": {
+    "id": "DSTV",
+    "logo": "dstv.png",
+    "name": "DSTV",
+    "tag": "Музикални",
+    "uri": "/hls/dstv/index.m3u8"
+  },
+  "duck_tv": {
+    "id": "DuckTV",
+    "logo": "ducktv.png",
+    "name": "Duck TV",
+    "tag": "Детски",
+    "uri": "/hls/ducktv/index.m3u8"
+  },
+  "e_kids": {
+    "id": "EKids",
+    "logo": "ekids.png",
+    "name": "ЕKids",
+    "tag": "Детски",
+    "uri": "/hls/ekids/index.m3u8"
+  },
+  "eurosport": {
+    "id": "Eurosport1",
+    "logo": "eurosport.png",
+    "name": "Eurosport",
+    "tag": "Спортни",
+    "uri": "/hls/eurosport/index.m3u8"
+  },
+  "eurosport_2": {
+    "id": "Eurosport2", 
+    "logo": "eurosport2.png", 
+    "name": "Eurosport 2", 
+    "tag": "Спортни",
+    "uri": "/hls/eurosport2/index.m3u8"
+  },
+  "evrokom": {
+    "id": "Eurocom",
+    "logo": "evrokom.png",
+    "name": "Evrokom",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/evrokom/index.m3u8"
+  },
+  "fashion_tv": {
+    "id": "FashionTV",
+    "logo": "fashiontv.png",
+    "name": "Fashion TV",
+    "tag": "ДРУГИ",
+    "uri": "/hls/fashion/index.m3u8"
+  },
+  "fen_folk": {
+    "id": "FenFolk",
+    "logo": "fenfolk.png",
+    "name": "Фен Фолк",
+    "tag": "Музикални",
+    "uri": "/hls/fenfolk/index.m3u8"
+  },
+  "fen_tv": {
+    "id": "FENTV",
+    "logo": "fentv.png",
+    "name": "Фен ТВ",
+    "tag": "Музикални",
+    "uri": "/hls/fantv/index.m3u8"
+  },
+  "fox": {
+    "id": "FOX",
+    "logo": "fox.png",
+    "name": "FOX",
+    "tag": "Филмови",
+    "uri": "/hls/fox/index.m3u8"
+  },
+  "fox_crime": {
+    "id": "FOXCrime",
+    "logo": "foxcrime.png",
+    "name": "FOX Crime",
+    "tag": "Филмови",
+    "uri": "/hls/foxcrime/index.m3u8"
+  },
+  "fox_life": {
+    "id": "FoxLife",
+    "logo": "foxlife.png",
+    "name": "FOX Life",
+    "tag": "Филмови",
+    "uri": "/hls/foxlife/index.m3u8"
+  },
+  "hbo": {
+    "id": "HBOHD",
+    "logo": "hbo.png",
+    "name": "HBO",
+    "tag": "Филмови",
+    "uri": "/hls/hbo/index.m3u8"
+  },
+  "hbo_2": {
+    "id": "HBO2",
+    "logo": "hbo2.png",
+    "name": "HBO2",
+    "tag": "Филмови",
+    "uri": "/hls/hbo2/index.m3u8"
+  },
+  "hbo_3": {
+    "id": "HBO3",
+    "logo": "hbo3.png",
+    "name": "HBO3",
+    "tag": "Филмови",
+    "uri": "/hls/hbo3/index.m3u8"
+  },
+  "history_tv": {
+    "id": "History",
+    "logo": "history.png",
+    "name": "History Channel",
+    "tag": "Научни",
+    "uri": "/hls/historytv/index.m3u8"
+  },
+  "investigation_discovery": {
+    "id": "ID",
+    "logo": "id.png",
+    "name": "Investigation Discovery",
+    "tag": "Документални",
+    "uri": "/hls/id/index.m3u8"
+  },
+  "kanal_3": {
+    "id": "Kanal3",
+    "logo": "kanal3.png",
+    "name": "Канал 3",
+    "tag": "Спортни",
+    "uri": "/hls/kanal3/index.m3u8"
+  },
+  "kino_nova": {
+    "id": "KinoNova",
+    "logo": "kinonova.png",
+    "name": "KinoNova",
+    "tag": "Филмови",
+    "uri": "/hls/kinonova/index.m3u8"
+  },
+  "magic_tv": {
+    "id": "MagicTV",
+    "logo": "magictv.png",
+    "name": "Magic ТВ",
+    "tag": "Музикални",
+    "uri": "/hls/magictv/index.m3u8"
+  },
+  "max_sport_1": {
+    "id": "MAXSport1",
+    "logo": "maxsport1.png",
+    "name": "МAX Sport 1",
+    "tag": "Спортни",
+    "uri": "/hls/maxsport1/index.m3u8"
+  },
+  "max_sport_2": {
+    "id": "MAXSport2",
+    "logo": "maxsport2.png",
+    "name": "МAX Sport 2",
+    "tag": "Спортни",
+    "uri": "/hls/maxsport2/index.m3u8"
+  },
+  "max_sport_3": {
+    "id": "MAXSport3",
+    "logo": "maxsport3.png",
+    "name": "МAX Sport 3",
+    "tag": "Спортни",
+    "uri": "/hls/maxsport3/index.m3u8"
+  },
+  "max_sport_4": {
+    "id": "MAXSport4",
+    "logo": "maxsport4.png",
+    "name": "МAX Sport 4",
+    "tag": "Спортни",
+    "uri": "/hls/maxsport4/index.m3u8"
+  },
+  "mezzo": {
+    "id": "Mezzo",
+    "logo": "mezzo.png",
+    "name": "Mezzo",
+    "tag": "Музикални",
+    "uri": "/hls/mezzo/index.m3u8"
+  },
+  "moviestar": {
+    "id": "MovieSTAR",
+    "logo": "moviestar.png",
+    "name": "MovieSTAR",
+    "tag": "Филмови",
+    "uri": "/hls/moviestar/index.m3u8"
+  },
+  "mtv": {
+    "id": "MTV",
+    "logo": "mtv.png",
+    "name": "MTV",
+    "tag": "Музикални",
+    "uri": "/hls/mtv/index.m3u8"
+  },
+  "mtv_hits": {
+    "id": "MTVHits",
+    "logo": "mtvhits.png",
+    "name": "MTV Hits",
+    "tag": "Музикални",
+    "uri": "/hls/mtvhits/index.m3u8"
+  },
+  "mtv_rocks": {
+    "id": "MTVRocks",
+    "logo": "mtvrocks.png",
+    "name": "MTV Rocks",
+    "tag": "Музикални",
+    "uri": "/hls/mtvrocks/index.m3u8"
+  },
+  "nat_geo_wild": {
+    "id": "NatGeoWild",
+    "logo": "natgeowild.png",
+    "name": "National Geographic Wild",
+    "tag": "Научни",
+    "uri": "/hls/natgeowild/index.m3u8"
+  },
+  "national_geographic": {
+    "id": "NatGeo",
+    "logo": "natgeo.png",
+    "name": "NGC",
+    "tag": "Научни",
+    "uri": "/hls/ng/index.m3u8"
+  },
+  "nickelodeon": {
+    "id": "Nickelodeon",
+    "logo": "nickelodeon.png",
+    "name": "Nickelodeon Bulgaria",
+    "tag": "Детски",
+    "uri": "/hls/nickelodeon/index.m3u8"
+  },
+  "nova": {
+    "id": "Nova",
+    "logo": "novatv.png",
+    "name": "Нова ТВ",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/nova/index.m3u8"
+  },
+  "nova_sport": {
+    "id": "NovaSport",
+    "logo": "novasport.png",
+    "name": "Nova Sport",
+    "tag": "Спортни",
+    "uri": "/hls/novasport/index.m3u8"
+  },
+  "nova_tv": {
+    "id": "Nova",
+    "logo": "novatv.png",
+    "name": "Nova TV",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/nova/index.m3u8"
+  },
+  "planeta_folk": {
+    "id": "PlanetaFolk",
+    "logo": "planetafolk.png",
+    "name": "Планета Фолк",
+    "tag": "Музикални",
+    "uri": "/hls/planetafolk/index.m3u8"
+  },
+  "planeta_hd": {
+    "id": "PlanetaHD",
+    "logo": "planetahd.png",
+    "name": "Планета HD",
+    "tag": "Музикални",
+    "uri": "/hls/planetahd/index.m3u8"
+  },
+  "planeta_tv": {
+    "id": "",
+    "logo": "",
+    "name": "",
+    "tag": "",
+    "uri": "/hls/planeta/index.m3u8"
+  },
+  "ring_bg": {
+    "id": "RING",
+    "logo": "ring.png",
+    "name": "Ring",
+    "tag": "Спортни",
+    "uri": "/hls/ringbg/index.m3u8"
+  },
+  "rt_documentary": {
+    "id": "",
+    "logo": "",
+    "name": "",
+    "tag": "",
+    "uri": "/hls/rtdoc/index.m3u8"
+  },
+  "russia_today": {
+    "id": "RussiaToday",
+    "logo": "russiatoday.png",
+    "name": "Russia Today",
+    "tag": "ДРУГИ",
+    "uri": "/hls/rt/index.m3u8"
+  },
+  "skat": {
+    "id": "Skat",
+    "logo": "skat.png",
+    "name": "Скат ТВ",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/skat/index.m3u8"
+  },
+  "sunrise_music": {
+    "id": "",
+    "logo": "",
+    "name": "",
+    "tag": "",
+    "uri": "/hls/sunrisem/index.m3u8"
+  },
+  "the_voice": {
+    "id": "TheVoice",
+    "logo": "thevoicetv.png",
+    "name": "The Voice",
+    "tag": "Музикални",
+    "uri": "/hls/thevoice/index.m3u8"
+  },
+  "tiankov_folk": {
+    "id": "TiankovFolk",
+    "logo": "tiankovfolk.png",
+    "name": "Тянков Фолк ТВ",
+    "tag": "Музикални",
+    "uri": "/hls/tiankov/index.m3u8"
+  },
+  "tlc": {
+    "id": "TLC",
+    "logo": "tlc.png",
+    "name": "TLC",
+    "tag": "Научни",
+    "uri": "/hls/tlc/index.m3u8"
+  },
+  "travel_channel": {
+    "id": "TravelChannel",
+    "logo": "travelchannel.png",
+    "name": "Travel Channel",
+    "tag": "Научни",
+    "uri": "/hls/travelbg/index.m3u8"
+  },
+  "tv_1000": {
+    "id": "TV1000",
+    "logo": "tv1000.png",
+    "name": "Viasat TV1000",
+    "tag": "Филмови",
+    "uri": "/hls/tv1000/index.m3u8"
+  },
+  "tv_evropa": {
+    "id": "tveurope",
+    "logo": "tveuropa.png",
+    "name": "ТВ Европа",
+    "tag": "ЕФИРНИ",
+    "uri": "/hls/tvevropa/index.m3u8"
+  },
+  "vh1": {
+    "id": "VH1",
+    "logo": "vh1.png",
+    "name": "VH1",
+    "tag": "Музикални",
+    "uri": "/hls/vh1/index.m3u8"
+  },
+  "vh1_classic": {
+    "id": "VH1Classic",
+    "logo": "vh1classic.png",
+    "name": "VH1 Classic",
+    "tag": "Музикални",
+    "uri": "/hls/vh1classic/index.m3u8"
+  },
+  "viasat_explorer": {
+    "id": "ViasatExplorer",
+    "logo": "viasatexplore.png",
+    "name": "Viasat Explorer",
+    "tag": "Научни",
+    "uri": "/hls/viasat_explorer/index.m3u8"
+  },
+  "viasat_history": {
+    "id": "ViasatHistory",
+    "logo": "viasathistory.png",
+    "name": "Viasat History",
+    "tag": "Научни",
+    "uri": "/hls/viasat_history/index.m3u8"
+  },
+  "viasat_nature": {
+    "id": "ViasatNature",
+    "logo": "viasatnature.png",
+    "name": "Viasat Nature",
+    "tag": "Научни",
+    "uri": "/hls/viasat_nature/index.m3u8"
+  }
+}
